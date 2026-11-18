@@ -1,0 +1,13 @@
+Order_ID,Customer,Region,Product,Quantity,Unit_Price,Order_Date,Payment_Status
+ORD-1001,Aarav Sharma,North,Laptop,1.0,55000,2025-01-05,Paid
+ORD-1002,  Meera Verma ,north,Phone,2.0,18000,2025/01/08,paid
+ORD-1003,Kabir Singh,South,Tablet,1.0,25000,2025-01-11,Pending
+ORD-1004,Isha Gupta,East,Laptop,1.0,55000,not available,Paid
+ORD-1005,,West,Phone,3.0,18000,2025-01-18,PENDING
+ORD-1006,Rohan Das,West,Tablet,,25000,2025-01-20,Paid
+ORD-1007,Sana Khan,NORTH,Laptop,2.0,55000,2025-02-02,Paid
+ORD-1008,Dev Patel,south,Phone,1.0,18000,2025-02-05,paid
+ORD-1008,Dev Patel,south,Phone,1.0,18000,2025-02-05,paid
+ORD-1010,Anaya Roy,East,Tablet,2.0,25000,2025-02-10,Refunded
+ORD-1011,  Vihaan Jain,,Laptop,1.0,55000,2025-02-14,Paid
+ORD-1012,Sara Ali,West,Phone,2.0,18000,2025-02-18,Pending
